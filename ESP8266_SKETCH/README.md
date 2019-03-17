@@ -17,5 +17,5 @@ What is needed:
   * Adafruit_Sensor Library Installed ([LINK](https://github.com/adafruit/Adafruit_Sensor))
   * ArduinoJson and webthings-arduino Libraries directly from the Arduino IDE (ALL version above 6)
 
-
+Connect the DHT 11 Sensor Module at the D1 Pin and the LED Circuit on D2 Pin of the ESP8266. 
 
